@@ -371,16 +371,4 @@ if __name__ == '__main__':
 
 
 
-#TODO: useful resources (DELETE THEM BEFORE SUBMITING)
-#https://machinelearningmastery.com/feature-selection-machine-learning-python/
-#https://towardsdatascience.com/why-random-forest-is-my-favorite-machine-learning-model-b97651fa3706
-#https://www.datacamp.com/community/tutorials/random-forests-classifier-python
-
-
-
-
-
-
-
-
 
